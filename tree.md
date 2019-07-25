@@ -18,7 +18,7 @@
     - [day06-1](/leyou/day06/day06)
     - [day06-2](/leyou/day06/day06-2)
     - [day07-1](/leyou/day07/day07-1)
-    - [day07-2](/leyou/day07/day08-2)
+    - [day07-2](/leyou/day07/day07-2)
     - [day08](/leyou/day08/day08)
     - [day09](/leyou/day09/day09)
     - [day010](/leyou/day10/day10)
